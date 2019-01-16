@@ -35,30 +35,30 @@ Wij blijven aanspreekpunt voor ondersteuning en het (laten) realiseren nieuwe we
 
 * Benodigde inzet Kennisloods (1 persoon): 1 uur per week
 
+---
+
 ## INTAKE EN INTAKE-CRITERIA
 Voor de intake wordt maandelijks een bijeenkomst georganiseerd, waarin probleemeigenaren hun probleem kunnen pitchen. Daarna worden de opgehaalde problemen toegevoegd aan de openstaande problemen. Deze worden door team kennisloods geprioriteerd op basis van de onderstaande criteria. Het hoogst scorende probleem wordt gekozen om in die maand  op te lossen.
 
----
-
-### GEMOTIVEERDE OMGEVING
+### MOTIVATIE
 - Is de probleemeigenaar in de organisatie gemotiveerd om het probleem aan te pakken?
 - Is de probleemeigenaar voldoende beschikbaar voor deze methode?
 - Haalt het oplossen van het probleem een frustratie/blokkade weg in het primaire werkproces?
 - Zijn alle betrokken belanghebbenden beschikbaar en bereid?
 
-### VRIJE RUIMTE
+### VRIJHEID
 - Is er mandaat om nieuwe tools/KPI's te introduceren?
 - Is falen niet problematisch?
 - Is er ruimte voor het herdefinitie van het probleem?
 
-### HAALBARE OPLOSSINGEN
+### HAALBAAR
 - Is het probleem “klein” te maken — en toch nog zinvol?
 - Hebben we al meteen uitvoerbare ideeën voor oplossingen?
 
-### POTENTIELE IMPACT
+### IMPACT
 - Is een oplossing in potentie structureel in te zetten?
 - Heeft een oplossing in potentie veel (verschillende) gebruikers?
 
-### OPBOUWEN KENNISLOODS
+### TACTISCH
 - Draagt een oplossing bij aan doel en promotie van Kennisloods?
 - Draagt een oplossing bij aan een structurele faciliteit voor terugkerende ad-ho vragen?
