@@ -1,4 +1,4 @@
-<img src="./Logo KennisLoods.svg">
+<img src="./Logo KennisLoods.svg" alt="KennisLoods">
 
 De kennisloods realiseert minimale bruikbare oplossingen voor concrete data problemen, en implementeert deze in de operatie.
 
