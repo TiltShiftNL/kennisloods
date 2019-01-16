@@ -61,4 +61,4 @@ Voor de intake wordt maandelijks een bijeenkomst georganiseerd, waarin probleeme
 
 #### TACTISCH
 - Draagt een oplossing bij aan doel en promotie van Kennisloods?
-- Draagt een oplossing bij aan een structurele faciliteit voor terugkerende ad-ho vragen?
+- Draagt een oplossing bij aan een structurele faciliteit voor terugkerende ad-hoc vragen?
