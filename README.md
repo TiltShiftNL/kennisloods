@@ -4,6 +4,8 @@ De kennisloods realiseert minimale bruikbare oplossingen voor concrete data prob
 
 Dat doen we in een proces van vier weken, in vier stappen:
 
+<img src="./ingevuld-methode-canvas.png">
+
 #### Week 1: onderzoeken
 We gaan met de probleemeigenaar in gesprek het precieze probleem en hoe dat een belemmering vormt in zijn of haar werkproces.
 
