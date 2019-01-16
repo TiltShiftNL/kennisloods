@@ -4,8 +4,6 @@ De kennisloods realiseert minimale bruikbare oplossingen voor concrete data prob
 
 Dat doen we in een proces van vier weken, in vier stappen:
 
-<img src="./ingevuld-methode-canvas.png">
-
 #### Week 1: onderzoeken
 We gaan met de probleemeigenaar in gesprek het precieze probleem en hoe dat een belemmering vormt in zijn of haar werkproces.
 
@@ -38,6 +36,8 @@ Op basis van de feedback maken we een aantal aanpassingen, en introduceren de op
 Wij blijven aanspreekpunt voor ondersteuning en het (laten) realiseren nieuwe wensen.
 
 * Benodigde inzet Kennisloods (1 persoon): 1 uur per week
+
+<img src="./ingevuld-methode-canvas.png">
 
 ### INTAKE EN INTAKE-CRITERIA
 Voor de intake wordt maandelijks een bijeenkomst georganiseerd, waarin probleemeigenaren hun probleem kunnen pitchen. Daarna worden de opgehaalde problemen toegevoegd aan de openstaande problemen. Deze worden door team kennisloods geprioriteerd op basis van de onderstaande criteria. Het hoogst scorende probleem wordt gekozen om in die maand  op te lossen.
