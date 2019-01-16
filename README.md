@@ -1,3 +1,5 @@
+<img src="./Logo KennisLoods.svg">
+
 De kennisloods realiseert minimale bruikbare oplossingen voor concrete data problemen, en implementeert deze in de operatie.
 
 Dat doen we in een proces van vier weken, in vier stappen:
