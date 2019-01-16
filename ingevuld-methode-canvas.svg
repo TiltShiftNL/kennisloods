@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="rotterdam-ingevuld-methode-canvas-met-intake.svg">
+   sodipodi:docname="ingevuld-methode-canvas.svg">
   <defs
      id="defs4">
     <clipPath
@@ -359,9 +359,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.24748737"
-     inkscape:cx="-304.23526"
-     inkscape:cy="189.97583"
+     inkscape:zoom="0.35"
+     inkscape:cx="205.09344"
+     inkscape:cy="507.76094"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -381,7 +381,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
