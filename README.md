@@ -46,12 +46,12 @@ Voor de intake wordt maandelijks een bijeenkomst georganiseerd, waarin probleeme
 - Haalt het oplossen van het probleem een frustratie/blokkade weg in het primaire werkproces?
 - Zijn alle betrokken belanghebbenden beschikbaar en bereid?
 
-### VRIJHEID
+### MANDAAT
 - Is er mandaat om nieuwe tools/KPI's te introduceren?
 - Is falen niet problematisch?
 - Is er ruimte voor het herdefinitie van het probleem?
 
-### HAALBAAR
+### CONCREET
 - Is het probleem “klein” te maken — en toch nog zinvol?
 - Hebben we al meteen uitvoerbare ideeën voor oplossingen?
 
